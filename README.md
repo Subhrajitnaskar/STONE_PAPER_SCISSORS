@@ -7,7 +7,7 @@ A simple, interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
 ## 🌐 Live Demo
 
 👉 [View the Live Game Here](https://subhrajitnaskar.github.io/STONE_PAPER_SCISSORS/)  
-*(Replace `your-username` with your actual GitHub username after uploading the code to GitHub and enabling GitHub Pages.)*
+
 
 ## ✨ Features
 
